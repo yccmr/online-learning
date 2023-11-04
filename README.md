@@ -1,7 +1,7 @@
 # Online Learning
 
-This repo consists of basics of online learning and some classic examples:
+This repo consists of the basics of online learning and some classic examples:
 
-- Online Convex Optimization
+- Online Convex Optimization (OCO)
 
 - Experts Problem
