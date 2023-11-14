@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\sum_{t=1}^T \in 
+\sum_{t=1}^T \in \sum_{t=1}^{T} f_t(\boldsymbol{u})
 $$
 
 This note will give a brief introduction on the following basic concepts in OCO:
