@@ -20,7 +20,7 @@ $$
 \text{Regret}_T \in o(T).
 $$
 
-
+### Note
 This note will briefly introduce the following basic concepts in OCO:
 
 - What's OCO?
