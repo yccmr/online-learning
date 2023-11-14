@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\text{min}_{\boldsymbol{u} \in \mathcal{C}}
+\mathop{\text{min}}_{\boldsymbol{u} \in \mathcal{C}}
 $$
 
 This note will give a brief introduction on the following basic concepts in OCO:
