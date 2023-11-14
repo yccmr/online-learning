@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\text{Regret}_T \coloneqq \sum_{t=1}^{T} f_t
+\text{Regret}_T \coloneqq \sum_{t=1}^{T} f
 $$
 
 $$
