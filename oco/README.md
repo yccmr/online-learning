@@ -9,7 +9,7 @@
 We use *regret* to measure the performance of an algorithm:
 
 $$
-\text{Regret}_T \coloneqq \sum_{t=1}^{T} f_t(w_t) - \mathop{\text{min}}_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u}).
+\text{Regret}_T \coloneqq \sum_{t=1}^{T} f_t(w_t) - \mathop{\text{min}}_{\boldsymbol{u}  \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u}).
 $$
 
 $$
