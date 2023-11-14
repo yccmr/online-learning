@@ -13,16 +13,14 @@ $$
 $$
 
 $$
-\text{Regret}_T \coloneqq \sum_{t=1}^{T} f_t(\boldsymbol{w}_t)
+\text{Regret}_T \coloneqq
 $$
 
 $$
-\min_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} ft(\boldsymbol{u})
+\min_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u})
 $$
 
 This note will give a brief introduction on the following basic concepts in OCO:
-
-- What's OCO?
 
 - OCO Algorithms
 
