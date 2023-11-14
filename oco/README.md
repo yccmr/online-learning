@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\text{min}_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u})
+\text{min}_{\boldsymbol{u} \in \mathcal{C}}
 $$
 
 This note will give a brief introduction on the following basic concepts in OCO:
