@@ -8,7 +8,7 @@
 - Algorithm: Suffer, learn, and adapt from the loss.
 
 ### Performance Metric & Goal
-We use *regret* to measure the performance of an algorithm:
+We use *regret* to measure the performance of an algorithm (compared with the best **fixed** decision in hindsight):
 
 $$
 \text{Regret}_T \coloneqq \sum_{t=1}^{T} f_t(\boldsymbol{w}_t) - \min_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u}),
