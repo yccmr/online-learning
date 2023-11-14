@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\text{Regret}_T \coloneqq \sum
+\text{Regret}_T \coloneqq \sum_{t=1}
 $$
 
 $$
