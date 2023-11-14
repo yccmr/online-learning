@@ -9,7 +9,7 @@
 We use *regret* to measure the performance of an algorithm:
 
 $$
-\text{Regret}_T \coloneqq \sum_{t=1}^{T}\limits f_t(\boldsymbol{w}_t) - \mathop{\text{min}}\limits_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u}).
+\sum_{t=1}^{T}\limits f_t(\boldsymbol{w}_t) - \mathop{\text{min}}\limits_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u}).
 $$
 
 This note will give a brief introduction on the following basic concepts in OCO:
