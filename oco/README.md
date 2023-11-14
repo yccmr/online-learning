@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\mathop{\text{min}}_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u})
+\min_{\boldsymbol{u} \in \mathcal{C}} \sum_{t=1}^{T} f_t(\boldsymbol{u})
 $$
 
 $$
