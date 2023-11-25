@@ -30,5 +30,3 @@ This note will briefly introduce the following basic concepts in OCO:
 - Experts Problem
 
 - Lower Bound of OCO
-
-- Beyond General Convexity Assumptions
