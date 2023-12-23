@@ -4,8 +4,8 @@
 *Online Convex Optimization* (*OCO*) can be considered as a repetitive game between the player/algorithm and the environment/adversary. Denote the convex decision space by $\mathcal{C}$, the convex loss function by $f: \mathcal{C} \rightarrow \mathbb R$, and the time horizon by $T$. For $t = 1, 2, ..., T$: 
 
 - Algorithm: Picks a decision vector $\boldsymbol{w}_t \in \mathcal{C}$,
-- Adversary: Picks and sends a convex loss $f_t$ with **full information** to the algorithm,
-- Algorithm: Suffer, learn, and adapt from the loss.
+- Adversary: Picks and reveals a convex loss $f_t$ with **full information** to the algorithm,
+- Algorithm: Suffer, learn and adapt from the loss.
 
 ### Performance Metric & Goal
 We use *regret* to measure the performance of an algorithm (compared with the best **fixed** decision in hindsight):
