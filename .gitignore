@@ -9,3 +9,6 @@
 images
 *.png
 *.key
+
+# test
+test.c
